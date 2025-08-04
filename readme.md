@@ -18,7 +18,7 @@ This repository contains two C programs:
 - Calculate average marks.
 - Identify the topper (student with the highest average).
 
-# Assignment 2: Matrix Multiplication (Pointers + Dynamic Memory Allocation + Functions)
+## Assignment 2: Matrix Multiplication (Pointers + Dynamic Memory Allocation + Functions)
 
 ## Description
 
@@ -36,4 +36,8 @@ This program implements matrix multiplication using dynamic memory allocation, p
 
    ```bash
    gcc matrix.c -o matrix
+
+   
+![Matrix Multiplication Example](topper.png)
+![Matrix Multiplication Example](matrix.png)
 
